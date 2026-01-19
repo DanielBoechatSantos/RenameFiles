@@ -19,7 +19,9 @@ O **MediaRenamer Pro** é uma ferramenta de automação desenvolvida em Python p
 - **Processamento de Imagem:** Pillow (PIL)
 - **Manipulação de Sistema:** OS, Sys, Datetime
 
-[Image of a professional software architecture diagram for a Python desktop application]
+## 🖼️ Demonstração
+
+![Interface do MediaRenamer Pro](screenshot.png)
 
 ## 📋 Pré-requisitos
 
