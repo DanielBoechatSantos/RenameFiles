@@ -31,4 +31,4 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/seu-usuario/media-renamer.git](https://github.com/seu-usuario/media-renamer.git)
+git clone [https://github.com/DanielBoechatSantos/RenameFiles.git](https://github.com/DanielBoechatSantos/RenameFiles.git)
